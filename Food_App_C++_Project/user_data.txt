@@ -1,0 +1,75 @@
+Restaurant: Spicyleaf Family Dhaba
+Food: Biryani
+Quantity: 26
+Price: $10.99
+
+Restaurant: Spicyleaf Family Dhaba
+Food: Biryani
+Quantity: 14
+Price: $10.99
+
+Restaurant: Spicyleaf Family Dhaba
+Food: Biryani
+Quantity: 14
+Price: $10.99
+
+Restaurant: Spicyleaf Family Dhaba
+Food: Biryani
+Quantity: 12
+Price: $10.99
+
+Restaurant: Spicyleaf Family Dhaba
+Food: Biryani
+Quantity: 12
+Price: $10.99
+
+Restaurant: Madhulok restaurant and bar
+Food: Biryani
+Quantity: 2
+Price: $8.99
+
+Restaurant: Rajavilas Restaurant
+Food: Idli Sambar
+Quantity: 3
+Price: $6.99
+
+Restaurant: Madhulok restaurant and bar
+Food: Biryani
+Quantity: 2
+Price: $8.99
+
+Restaurant: Rajavilas Restaurant
+Food: Idli Sambar
+Quantity: 3
+Price: $6.99
+
+Restaurant: Spicyleaf Family Dhaba
+Food: Biryani
+Quantity: 2
+Price: $10.99
+
+Restaurant: Rajavilas Restaurant
+Food: Idli Sambar
+Quantity: 3
+Price: $6.99
+
+Restaurant: Spicyleaf Family Dhaba
+Food: Biryani
+Quantity: 2
+Price: $10.99
+
+Restaurant: Rajavilas Restaurant
+Food: Idli Sambar
+Quantity: 3
+Price: $6.99
+
+Restaurant: Spicyleaf Family Dhaba
+Food: Biryani
+Quantity: 2
+Price: $10.99
+
+Restaurant: Spicyleaf Family Dhaba
+Food: Biryani
+Quantity: 2
+Price: $10.99
+

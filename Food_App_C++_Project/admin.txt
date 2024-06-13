@@ -1,0 +1,35 @@
+Username: e
+Name: a
+State: b
+Address: c
+Reference Location: d
+Preference: veg
+
+Username: e
+Name: a
+State: b
+Address: c
+Reference Location: d
+Preference: veg
+
+Username: e
+Name: a
+State: b
+Address: c
+Reference Location: d
+Preference: veg
+
+Username: amaneats
+Name: aman
+State: ap
+Address: iiitk
+Reference Location: mvhr
+Preference: veg
+
+Username: ANU
+Name: ANURAG
+State: UP
+Address: PRYAGRAJ
+Reference Location: RAJ PALACE
+Preference: VEG
+
