@@ -2,7 +2,7 @@ Food Ordering Application
 
 Description
 
-This project is a food ordering application implemented in C++ by our team. The app allows users to browse a menu, place orders, and manage their cart. The goal is to simulate a simple food ordering system with functionalities like adding items to the cart, viewing the cart, removing items, and checking out.
+This project is a food ordering application implemented in C++ by our team Akatsuki. The app allows users to browse a menu, place orders, and manage their cart. The goal is to simulate a simple food ordering system with functionalities like adding items to the cart, viewing the cart, removing items, and checking out.
 
 Features
 
